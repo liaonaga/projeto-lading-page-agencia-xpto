@@ -1,7 +1,7 @@
 # projeto Agência XPTO
 ## projeto desenvolvido no curso DevQuest - HTML/CSS/Javascript
 
-![gif](src/imagens/gif-site-agencia-xpto.gif)
+![gif](/src/imagens/site-agencia-xpto.png)
 
 Você pode acessá-lo com este [link.](https://liaonaga.github.io/projeto-lading-page-agencia-xpto/#)
 
